@@ -1,0 +1,15 @@
+{
+  "name": "Walking Woman",
+  "version": "1.0.0",
+  "description": "Augmented reality project",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bartosz Wysocki",
+  "license": "ISC",
+  "devDependencies": {},
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
